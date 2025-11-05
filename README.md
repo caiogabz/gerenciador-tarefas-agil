@@ -1,47 +1,53 @@
 # gerenciador-tarefas-agil
 Sistema de gerenciamento de tarefas com metodologia ágil.
 ## 📌 Descrição
-Sistema de gerenciamento de tarefas baseado em metodologias ágeis, desenvolvido para simular o fluxo de trabalho de uma equipe em tempo real, com priorização de tarefas e controle de desempenho.
+Sistema de gerenciamento de tarefas baseado em metodologia ágil, desenvolvido para simular o fluxo de trabalho de uma equipe em tempo real, com priorização de tarefas e controle de entregas.
 
 ## 🎯 Objetivos
-- Aplicar conceitos de Engenharia de Software em um projeto prático.
-- Utilizar GitHub como ferramenta de gestão ágil.
-- Implementar funcionalidades básicas de um sistema de tarefas.
-- Automatizar testes com GitHub Actions.
+- Ajudar a controlar as tarefas diárias com uma prática prática.
+- Utilizar GitHub como ferramenta de controle.
+- Aprimorar o conhecimento em metodologias ágeis.
+- Aprimorar o conhecimento com GitHub.
 
 ## ⚙ Funcionalidades
-- Adicionar, editar e remover tarefas (CRUD).
-- Visualização de tarefas em quadro Kanban (To Do, In Progress, Done).
-- Simulação de múltiplos usuários (opcional).
-- Controle de acesso (login/autenticação básica).
+- Cadastro de tarefas.
+- Cadastro de membros.
+- Cadastro de status das tarefas (CRUD).
+- Visualização de tarefas por status.
+- Visualização de tarefas por membro.
+- Atualização de status das tarefas.
+- Atualização de membros responsáveis pelas tarefas.
 
 ## 🧪 Tecnologias Utilizadas
-- Linguagem: [escolha sua linguagem: Python, JavaScript, Java...]
-- Banco de dados: [MongoDB, SQLite, JSON...]
-- Testes automatizados: [PyTest, Mocha, Jest...]
-- CI/CD: GitHub Actions
+- Linguagem de programação: JavaScript.
+- Frameworks: Node.js, Express.js.
+- Banco de dados: MongoDB.
+- Ferramentas de versionamento: GitHub.
+- Ferramentas de desenvolvimento: Visual Studio Code.
 
 ## 📋 Metodologia
-Utilização do Kanban no GitHub Projects para organizar as tarefas:
-- A Fazer
+Utilização de Kanban do GitHub Projects para organizar as tarefas:
+- Planejar
 - Em Progresso
 - Concluído
 
 ## 🔄 Mudança de Escopo
-[Descreva aqui a mudança que você simulou no projeto e por que ela foi necessária.]
+Durante o desenvolvimento, foi adicionada a funcionalidade de cadastro de membros para melhorar o controle de responsabilidades. Essa mudança foi registrada no README e refletida no Kanban com novas tarefas.
 
-## ❓ Respostas às Questões Norteadoras
-1. *Principais causas de falhas em projetos ágeis e como o GitHub pode ajudar a mitigá-las:*  
-   [Sua resposta aqui]
+## ❓ Respostas das Questões Norteadoras
 
-2. *Atitudes para identificar problemas comuns como má gestão de tarefas e falhas de comunicação:*  
-   [Sua resposta aqui]
+1. *Quais são os principais causas de falhas em projetos ágeis e como o GitHub pode ajudar a mitigá-las?*  
+   Falhas comuns incluem má comunicação, falta de acompanhamento das tarefas e escopo mal definido. O GitHub ajuda com ferramentas como Issues, Kanban e histórico de commits, que promovem transparência e organização.
 
-3. *Como o controle de qualidade por meio de testes automatizados contribui para a entrega de um software confiável:*  
-   [Sua resposta aqui]
+2. *Quais são as atitudes para identificar problemas comuns, como má gestão de tarefas e falhas de comunicação?*  
+   Realizar reuniões de revisão, acompanhar o progresso no Kanban, manter mensagens de commit claras e promover feedback constante entre os membros da equipe.
 
-4. *Como deve ser a estrutura de commits de qualidade:*  
-   [Sua resposta aqui]
+3. *Como o controle de qualidade por meio de testes automatizados contribui para a entrega de um software confiável?*  
+   Os testes automatizados garantem que o sistema funcione como esperado a cada alteração, evitando regressões e aumentando a confiança na entrega contínua.
 
-5. *Como a simulação de uma mudança no escopo contribui para o entendimento e controle de mudanças:*  
-   [Sua resposta aqui]
+4. *Como deve ser a estrutura de commits de qualidade?*  
+   Commits devem ser frequentes, com mensagens claras e objetivas que expliquem o que foi alterado e por quê. Exemplo: feat: adicionar filtro por status nas tarefas.
+
+5. *Como a simulação de uma mudança no escopo do projeto, registrada no README.md e adaptada no Kanban, contribui para o entendimento e controle de mudanças?*  
+   Essa prática permite visualizar o impacto da mudança, ajustar prioridades e manter o histórico de decisões, promovendo uma gestão de escopo mais eficiente.
+
