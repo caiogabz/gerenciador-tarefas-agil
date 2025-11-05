@@ -4,7 +4,7 @@ Sistema de gerenciamento de tarefas com metodologia ágil.
 Sistema de gerenciamento de tarefas baseado em metodologia ágil, desenvolvido para simular o fluxo de trabalho de uma equipe em tempo real, com priorização de tarefas e controle de entregas.
 
 ## 🎯 Objetivos
-- Ajudar a controlar as tarefas diárias com uma prática prática.
+- Ajudar a controlar as tarefas diárias com uma prática.
 - Utilizar GitHub como ferramenta de controle.
 - Aprimorar o conhecimento em metodologias ágeis.
 - Aprimorar o conhecimento com GitHub.
